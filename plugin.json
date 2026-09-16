@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "factory-process",
+  "version": "0.1.0",
+  "description": "Team operating loop for Grok Bot: spec first, goldens, cheap drafts, no FYI ping.",
+  "author": {
+    "name": "Giani Brussich",
+    "url": "https://nyclaw.io"
+  },
+  "license": "MIT",
+  "keywords": [
+    "grok-bot",
+    "process",
+    "skills"
+  ],
+  "repository": "https://github.com/gbrussich52/factory-process",
+  "homepage": "https://nyclaw.io"
+}
