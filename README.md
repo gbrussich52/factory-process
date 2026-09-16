@@ -6,7 +6,7 @@ Team operating loop for Grok Bot: spec first, goldens, cheap drafts, no FYI ping
 
 - **Cursor IDE (this folder):** install as a local Agent Plugin at `~/.cursor/plugins/local/factory-process`.
 - **Grok Bot:** does **not** load `~/.cursor/plugins/local`. Grok Bot runs the same two skills as user skills after they are saved in the Grok Bot skill library.
-- **Marketplace:** board yes 2026-09-16. Submitting to Cursor Marketplace (`cursor.com/marketplace/publish`). Not cursor.directory.
+- **Marketplace:** submitted 2026-09-16 via `cursor.com/marketplace/publish` (Thanks for applying). Awaiting Cursor review. Not cursor.directory.
 
 ## Skills
 
